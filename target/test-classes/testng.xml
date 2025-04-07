@@ -1,0 +1,21 @@
+<suite name="AllTests" >
+
+    <listeners>
+        <listener class-name="reports.ExtentReportListener"/>
+    </listeners>
+
+    <test name="SeleniumTests">
+        <classes>
+            <class name="tests.Home"/>
+            <class name="tests.Contact"/>
+            <class name="tests.Turkish"/>
+            <class name="tests.French"/>
+            <class name="tests.Register"/>
+            <class name="tests.Login"/>
+            <class name="tests.Arabic"/>
+            <class name="tests.Espresso"/>
+            <!-- Add more test classes here -->
+        </classes>
+    </test>
+</suite>
+
