@@ -30,17 +30,17 @@ public class Elements {
     public static By alreadyRegistered = By.id("");
 
 
-    //5 Cast Resign Dry Transformers
+    //5 Turkish
 
 
 
-    //6 Installation & Maintenance
+    //6 French
 
 
 
-    //7 Package Substation
+    //7 Espresso
 
 
 
-    //8 Power Transformers
+    //8 Arabic
 }
